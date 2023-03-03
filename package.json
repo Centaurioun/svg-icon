@@ -83,7 +83,7 @@
     "less": "^2.6.1",
     "less-loader": "^2.2.3",
     "mocha": "^2.4.5",
-    "open": "^0.0.5",
+    "open": "^6.0.0",
     "postcss": "^5.0.19",
     "postcss-loader": "^0.8.2",
     "pre-commit": "^1.1.2",
@@ -99,7 +99,7 @@
     "underscore": "^1.8.3",
     "url-loader": "^0.5.7",
     "webpack": "^1.13.0",
-    "webpack-dev-server": "^1.14.1"
+    "webpack-dev-server": "^2.2.0"
   },
   "engines": {
     "node": ">=4.0.0"
