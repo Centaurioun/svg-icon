@@ -37,7 +37,7 @@
     "minimize": "^1.8.1",
     "normalize.css": "^4.2.0",
     "phantom": "^2.1.14",
-    "shelljs": "^0.7.0",
+    "shelljs": "^0.10.0",
     "spinkit": "^1.2.5",
     "svgo": "^0.6.6",
     "tabslet": "^1.7.2",
@@ -45,8 +45,8 @@
     "thunkify": "^2.1.2",
     "vinyl-fs": "^2.4.3",
     "which": "^1.2.9",
-    "xml2js": "^0.4.16",
-    "xmldom": "^0.1.22",
+    "xml2js": "^0.6.2",
+    "xmldom": "^0.6.0",
     "zero-lang": "^0.1.2"
   },
   "devDependencies": {
@@ -83,8 +83,8 @@
     "less": "^2.6.1",
     "less-loader": "^2.2.3",
     "mocha": "^2.4.5",
-    "open": "^0.0.5",
-    "postcss": "^5.0.19",
+    "open": "^10.2.0",
+    "postcss": "^8.5.6",
     "postcss-loader": "^0.8.2",
     "pre-commit": "^1.1.2",
     "ranma": "^0.5.0",
@@ -99,7 +99,7 @@
     "underscore": "^1.8.3",
     "url-loader": "^0.5.7",
     "webpack": "^1.13.0",
-    "webpack-dev-server": "^1.14.1"
+    "webpack-dev-server": "^5.2.2"
   },
   "engines": {
     "node": ">=4.0.0"
